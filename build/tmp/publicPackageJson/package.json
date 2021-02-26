@@ -1,0 +1,10 @@
+{
+  "main": "kotlin/running-paces.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "running-paces",
+  "version": "1.0.0-SNAPSHOT"
+}
